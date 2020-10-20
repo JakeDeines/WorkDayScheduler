@@ -2,7 +2,7 @@
 
 
 ## Description
-In this Homework i created a simple daily planner using html, css, and js. this planner was created with a focal point of using moment.js with the help of using jQuery, eventListeners and localStorage.
+In this Homework i created a simple daily planner to save events for each hour of the day. this homework runs in the browser and features dynamically updated HTML, css, and js. this planner was created with a focal point of using moment.js with the help of using jQuery, eventListeners and localStorage.
 
 ## Deployed Website
 https://jakedeines.github.io/WorkDayScheduler/.
