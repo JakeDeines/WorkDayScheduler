@@ -7,7 +7,7 @@ In this Homework i created a simple daily planner using html, css, and js. this 
 ## Deployed Website
 
 ## Github Repository URL
-
+https://jakedeines.github.io/WorkDayScheduler/.
 ## Deployed Website Image
 
 
