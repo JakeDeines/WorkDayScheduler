@@ -18,4 +18,3 @@ https://github.com/JakeDeines/WorkDayScheduler
 ![scheduler pic hw](https://user-images.githubusercontent.com/67669417/96625098-90f71780-12c2-11eb-9c13-0cb21ed2cd0a.PNG)
 
 
-https://github.com/JakeDeines/WorkDayScheduler
