@@ -10,4 +10,4 @@ In this Homework i created a simple daily planner using html, css, and js. this 
 https://jakedeines.github.io/WorkDayScheduler/.
 ## Deployed Website Image
 
-
+![scheduler pic hw](https://user-images.githubusercontent.com/67669417/96625098-90f71780-12c2-11eb-9c13-0cb21ed2cd0a.PNG)
